@@ -1,0 +1,7 @@
+
+# Ignore checkopints
+.ipynb_checkpoints/
+
+# Ignore IDE files
+.idea/
+
